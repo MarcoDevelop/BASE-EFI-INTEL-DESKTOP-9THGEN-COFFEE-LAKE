@@ -5,3 +5,5 @@ Processador: i3 9100F, Coffee Lake
 Placa mãe: TUF H310M-PLUS GAMING/BR
 GPU: Sapphire NITRO+ RX 580 4 GB
 Placa de rede: Intel® I219V
+
+Opencore version: 0.9.5
